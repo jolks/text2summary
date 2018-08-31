@@ -1,5 +1,2 @@
-.ipynb_checkpoints
 .idea
 .DS_Store
-/dataset/*
-!/dataset/.gitkeep
